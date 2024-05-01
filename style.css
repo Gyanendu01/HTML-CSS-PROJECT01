@@ -1,0 +1,124 @@
+*{
+    font-family: gilroy;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
+
+#main{
+    height: 100%;
+    width: 100%;
+    background-color: whitesmoke;
+}
+#nav{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 30px;
+}
+#nav-part1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#nav h3{
+    font-size: 15px;
+    border: 1.5px solid black; 
+    padding: 5px 8px;
+    border-radius: 50px;  
+    font-weight: 500px;
+}
+
+#nav i{
+    font-size: 17px;
+    border: 1.5px solid black; 
+    padding: 5px 8px;
+    border-radius: 50px;  
+    font-weight: 500px;
+}
+
+#nav h1{
+    font-size: 22px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+#nav-part3 button{
+    padding: 7px 12px;
+    border-radius: 50px;
+    border: 1.5px solid black;
+    font-size: 16px;
+    font-weight: 600px;
+    background-color: white;
+}
+
+#nav-part3 #btn-2{
+    border: none;
+    background-color: orangered;
+    color: white;
+}
+
+#main>h1{
+    font-size: 100px;
+    color: black;
+    font-weight: 300;
+    text-transform: uppercase;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+}
+
+img{
+    height: 320px;
+    width: 320px;
+    object-fit: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    border-radius: 20px;
+    transform: translate(-50% , -50%);
+}
+
+#img1{
+    transform: translate(-50% , -50%) rotate(-30deg);
+}
+#img2{
+    transform: translate(-50% , -50%) rotate(-20deg);
+}
+#img3{
+    transform: translate(-50% , -50%) rotate(-10deg);
+}
+
+#btm-left{
+    position: absolute;
+    bottom: 5%;
+    left: 17px;
+    font-size: 15px;
+}
+
+#btm-right{
+    position: absolute;
+    bottom: 5%;
+    right: 17px;
+    font-size: 15px;
+}
+
+#year{
+    position: absolute;
+    bottom: 2%;
+    right: 17px;
+    font-size: 15px;
+    font-weight: 900;
+}
