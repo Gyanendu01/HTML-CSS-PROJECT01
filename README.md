@@ -1,7 +1,9 @@
 # Fashion Based Website
 It is a pure html and css based practice website that uses all the fundamenatl concepts of html and css.
 
-# Live Preview
+## Live Preview
+You can view the live preview of this website [here](https://gyanendu01.github.io/HTML-CSS-PROJECT01/).
+
 
 
 ## Contributing
