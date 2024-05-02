@@ -13,6 +13,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the MIT License, which means you are free to use, modify, and distribute the code for personal or commercial purposes.
 Contact
 
-For any inquiries or feedback, please contact us at gyanenduboitai2004@example.com.
+For any inquiries or feedback, please contact us at gyanenduboitai2004@gmail.com.
 
 Thank you for visiting our Fashion Model Website!
